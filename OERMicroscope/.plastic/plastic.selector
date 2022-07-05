@@ -1,0 +1,4 @@
+repository "ccm-oer-microscope@dashingcapegames@cloud"
+  path "/"
+    smartbranch "/main/Phase 2 - Extendability/WindowsBuild"                
+     

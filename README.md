@@ -8,9 +8,9 @@ Phase 1 web version: https://opennj.net/AA00001513/00001
 Updated version should be available at developer Eric Guadara's itch page: https://eeease.itch.io
 
 # How to Use:
-1. Downloading and Installing
-2. Running the Microscope
-3. Loading Custom Slides
+1. [Downloading and Installing](https://github.com/eeease/OERMicroscope_UnityRepo/blob/main/README.md#downloading-and-installing)
+2. [Running the Microscope](https://github.com/eeease/OERMicroscope_UnityRepo/blob/main/README.md#running-the-microscope)
+3. [Built-in and Custom Slides](https://github.com/eeease/OERMicroscope_UnityRepo/blob/main/README.md#built-in-and-custom-slide-loading)
 
 ---
 
@@ -74,8 +74,9 @@ Options > Highlight Help:
 
 ### Custom Slides:
 The OER Microscope HD supports custom slides.  Here's a video describing how to prepare and load a folder of images:
+Video Tutorial:
 
-https://www.youtube.com/watch?v=cr2T-6nustg
+[![Video tutorial](https://img.youtube.com/vi/cr2T-6nustg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cr2T-6nustg)
 
 Preparing a folder of slides for distribution can be tricky.  We used an iPhone attachment to capture all of the HD photos found in the program.
 

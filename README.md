@@ -11,12 +11,15 @@ Updated version should be available at developer Eric Guadara's itch page: https
 1. [Downloading and Installing](https://github.com/eeease/OERMicroscope_UnityRepo/blob/main/README.md#downloading-and-installing)
 2. [Running the Microscope](https://github.com/eeease/OERMicroscope_UnityRepo/blob/main/README.md#running-the-microscope)
 3. [Built-in and Custom Slides](https://github.com/eeease/OERMicroscope_UnityRepo/blob/main/README.md#built-in-and-custom-slide-loading)
+4. [FAQs](https://github.com/eeease/OERMicroscope_UnityRepo/blob/main/README.md#FAQs)
 
 ---
 
 ## Downloading and Installing:
 The OER Microscope HD is currently available for Mac and Windows.
+
 It is hosted at the following website: https://eeease.itch.io/oer-microscope-hd
+
 Scroll down on the webpage to find the two download buttons.  The first is for Mac (see the apple icon next to it).  The second link is for Windows.
 
 ![image](https://github.com/eeease/OERMicroscope_UnityRepo/assets/10697313/d34464de-d3ba-470a-8463-8357c561a466)
@@ -100,6 +103,19 @@ Important things to note about custom slides:
 	- The app does not support loading slides from The Cloud, Blackboard, Drive, etc.
 3. The specimen folder needs to be UNZIPPED.
 	- If you are distributing a folder of images to students, it will probably get zipped when they download it.  The folder needs to be completely unzipped in order to work with the Microscope.
+
+## FAQs:
+1. Do I need a Github account to use this Microscope?
+	- No.  Once downloaded, you can even use the Microscope without an internet connection.
+2. The Microscope won't open!  Help!
+	- Make sure the folder is completely unzipped.  On Windows, if you double-click a zipped folder, it lets you 'preview' the contents.  This is tricky because it seems unzipped and usable when it is not.
+3. How do I turn off the music?
+   	- Options > Music will turn off the music.
+4. How do I distribute slides to students?
+   	- It's a multistep process.  Get slide images, place them in a folder, upload that folder, then have students download that folder on their own computers.
+    	- The big sticking point here is making sure students understand how to download your slide folders and unzip them.  I would go through this process in class if possible and maybe even record a video of your own.  Feel free to link to my video, too!  I may record a couple of videos to go through the process of creating a slides folder and downloading a slides folder.
+5. Can students use custom slides on their phones?
+	- No.  Because we wanted to bundle it with ~100 HD slides, the HD Microscope is only available for Mac and Windows.  Also, custom slide functionality for two more Operating Systems (iOS, Android) was out of scope during our development cycle.
 
 
 
